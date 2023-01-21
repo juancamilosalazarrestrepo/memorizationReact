@@ -1,0 +1,21 @@
+#root{
+  width: 100%;
+  background-color: #ddd;
+}
+
+
+.container{
+  background-color: #ddd;
+  padding: 1rem 7rem;
+}
+
+.contadorContainer{
+  text-align: center;
+}
+
+.containerHijo{
+  border: thin solid #000;
+  margin:1rem;
+  padding: 1rem;
+}
+
